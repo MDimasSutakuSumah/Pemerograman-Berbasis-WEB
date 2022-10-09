@@ -1,0 +1,29 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+.containertext-aj1{
+    background-color:white;
+    display: flex;
+    justify-content:center;
+}
+
+.containerpicture-aj1 {
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.picture-aj1 {
+    width: 30%;
+    height: 40%;
+}
+
+.h5-text {
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 16px;
+    color: black;
+    text-align: center ;
+}
